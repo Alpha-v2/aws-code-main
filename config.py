@@ -1,4 +1,4 @@
-customhost = "RDS-endpoint"
+customhost = "database-1.cgvmbk4kmmmn.us-east-1.rds.amazonaws.com"
 customuser = "admin"
 custompass = "password"
 customdb = "database-1"
